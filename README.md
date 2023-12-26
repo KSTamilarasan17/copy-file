@@ -20,8 +20,8 @@ Copy the content of text1.txt file to copy.txt using write function:
 ## PROGRAM:
 ```
 Program for copying the contents from one file to another file
-Developed by:Lokhnath J
-RegisterNumber: 23004865
+Developed by:TAMILARASAN K S.
+RegisterNumber: 23000080
 
 with open("text1.txt",'r') as fp:
     msg1=fp.read()
